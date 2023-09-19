@@ -98,3 +98,12 @@ Contributions are welcome! If you have improvements or additional content relate
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+**Installation:**
+```bash
+pip install beautifulsoup4 requests
+pip install scrapy
+pip install autoscraper
+pip install selenium
+
